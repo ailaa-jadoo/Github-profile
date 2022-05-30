@@ -99,6 +99,7 @@ body {
     margin-right: 0.5rem;
     margin-bottom: 0.5rem;
     display: inline-block;
+    border-radius: 15px;
 }
 
 @media (max-width: 500px) {
